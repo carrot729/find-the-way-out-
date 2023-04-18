@@ -1,0 +1,1 @@
+When you open your eyes, you find that you are trapped in a LARGE maze. You thump hard on the ground to check if you are still in dream, but it hurts and nothing has happened. So, find the way out. The password of subtask1 is "Hello, world!". The passwords of subtasks 2 to 6 are in subtask1. The password of subtask7 is the concatenation of the scores of subtasks 1 to 6.
