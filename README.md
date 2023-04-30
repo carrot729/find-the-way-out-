@@ -39,3 +39,5 @@
 ```
 thisisthesample
 ```
+## 原题
+<https://www.luogu.com.cn/problem/T313419?contestId=105199>
